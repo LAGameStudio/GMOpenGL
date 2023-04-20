@@ -1,2 +1,2 @@
 # GMOpenGL
-Implements a VBO and FBO class for treating surfaces and vertex buffers as they are in OpenGL/C++
+Implements a VBO and FBO class for treating surfaces and vertex buffers as they are in OpenGL/C++.  Bonus:  Shader wrangler GLSL.gml
